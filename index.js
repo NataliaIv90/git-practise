@@ -1,3 +1,3 @@
-(function muFunc1() {
+(function muFunc() {
   console.log("Hello")
 })()
